@@ -181,4 +181,5 @@ _Nota 9: Necessario incluir a linha de codigo de execução para exibir o result
 
 > Este bloco principal executa todo o pipeline de ponta a ponta, demonstrando o uso da classe e de todas as funções criadas.
 
-"LINK PARA O VIDEO"
+### LINK PARA O VIDEO
+(https://drive.google.com/file/d/1ujgtjoFZ0PD82k9CzN0fCEMrrcl9HnFd/view?usp=drive_link)
